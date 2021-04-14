@@ -46,7 +46,7 @@ parser.add_option("--website", dest="website",help="choose a website")
 (options, args) = parser.parse_args()
 
 
-
+CHROME_DVR_DTR = C:\Users\Adam\Desktop\Roblox-Bot-Tool-master\DriverPacks\chromedriver_win32\chromedriver.exe
 
 def wizard():
     print (banner)
